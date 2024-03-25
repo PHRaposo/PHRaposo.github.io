@@ -11,13 +11,13 @@ author: Paulo Henrique Raposo
 ---
 Boas-vindas!
 
-O objetivo desta página meu portfolio, onde serão apresentadas minhas composições, arranjos, estudos sobre composição assistida por computador e demais assustos. 
+Pensei nesta página como um portfolio, onde serão apresentadas minhas composições, arranjos, estudos sobre composição assistida por computador e demais assustos. 
 
-No momento estão disponíveis os links para o YouTube, Linkedin, GitHub, Soundcloud eBandcamp (ver a página "Sobre"), além do meu endereço de e-mail para contato.
+No momento estão disponíveis os links para acessar minhas páginas no YouTube, Linkedin, GitHub, Soundcloud e Bandcamp (ver a página "Sobre"), além do meu endereço de e-mail para contato.
 
-Se tiver o interesse em ser um assinante, assim que for postado um novo conteúdo este será enviado ao e-mail cadastrado. 
+Se tiver o interesse em ser um assinante, [preencha a "Newsletter" abaixo. Assim que for postado um novo conteúdo, este será enviado ao seu e-mail. 
 
-Para acessar a aba "Feed", na barra lateral, é necessário ter instalada uma extensão no navegador. No momento estou usando o "RSS Feed Reader 7.9.0" no Google Chrome. 
+Para acessar a aba "Feed", na barra lateral, é necessário ter instalada uma extensão no navegador, como, por exemplo, o "RSS Feed Reader 7.9.0" para o Google Chrome. 
 
 OBS.: O ícone da página, que também serve de imagem para esta mensagem, é um desenho feito à mão por mim mesmo, a alguns anos atrás, com tinta Nankin. Ele foi adaptado para a página. 
  
