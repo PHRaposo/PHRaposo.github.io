@@ -5,7 +5,7 @@ show_date: false
 title: Boas-vindas
 date:   2024-03-25 15:11:20 -0500
 description: Boas vindas.
-img: posts/20240325/Boas-vindas.jpg 
+img: assets/img/posts/20240325/Boas-vindas.jpg 
 tags: [boas-vindas]
 author: Paulo Henrique Raposo
 ---
