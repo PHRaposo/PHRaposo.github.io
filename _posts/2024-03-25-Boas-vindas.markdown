@@ -2,10 +2,10 @@
 layout: post
 read_time: false
 show_date: false
-title:  Boas-nindas
+title: Boas-vindas
 date:   2024-03-25 15:11:20 -0500
 description: Boas vindas.
-img: assets/img/posts/20240325/Boas-vindas.jpg 
+img: posts/20240325/Boas-vindas.jpg 
 tags: [boas-vindas]
 author: Paulo Henrique Raposo
 ---
