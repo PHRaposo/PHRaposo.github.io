@@ -10,7 +10,7 @@ tags: [boas-vindas]
 author: Paulo Henrique Raposo
 ---
 
-Pensei nesta página como um portfolio, onde serão apresentadas minhas composições, arranjos, estudos sobre composição assistida por computador e demais assustos. 
+Pensei nesta página como um portfólio, onde serão apresentadas minhas composições, arranjos, estudos sobre composição assistida por computador e demais assustos. 
 
 No momento, estão disponíveis os links para acessar minhas páginas no YouTube, Linkedin, GitHub, Soundcloud e Bandcamp (ver a página "Sobre"), além do meu endereço de e-mail para contato.
 
