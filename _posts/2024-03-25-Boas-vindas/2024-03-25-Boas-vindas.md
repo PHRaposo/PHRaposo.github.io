@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Boas-vindas
-date:   2024-03-25 15:11:20 -0500                    
+date:   2024-03-25                    
 description: Apresentação.             
 img: posts/20240325/Boas-vindas.jpg           
 tags: [boas-vindas]                       
