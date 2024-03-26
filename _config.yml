@@ -94,23 +94,4 @@ plugins:
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
 
-# TRANSLATIONS (from TyniZzh.github.io)
-locale: phr
-data:
-  ui-text:
-    phr:
-      home: Principal
-      archives: Arquivo
-      tags: Palavras-Chave
-      about: Sobre
-      atom_feed: FEED
-      search: Pesquisa
-      prev_page: Anterior
-      next_page: Próxima
-      read_more: Ler mais
-      less_than: Menos que
-      minute_read: Minutos de leitura
-      recent_posts: Postagens recentes
-      news_text: Inscreva-se aqui para receber as últimas atualizações
-	  news-holder: E-mail
-	  news-button: Enviar
+
