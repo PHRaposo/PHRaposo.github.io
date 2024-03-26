@@ -2,9 +2,9 @@
 layout: post
 read_time: false
 show_date: false
-title:  Bio
+title:  Biografia
 date:   2024-03-26 13:00:00 -0300
-description: Biografia
+description: Bio
 img: posts/20240326/Bio.jpg 
 tags: [bio]
 author: Paulo Henrique Raposo
