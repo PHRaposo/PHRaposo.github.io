@@ -1,13 +1,15 @@
 ---
+
 layout: post
 read_time: false
 show_date: false
-title: Welcome
+title: Boas-vindas
 date: 2024-03-25 15:11:20 -0500  
 description: Boas-vindas.  
 img: posts/20240325/Boas-vindas.jpg  
 tags: [boas-vindas]  
-author: Paulo Henrique Raposo  
+author: Paulo Henrique Raposo
+  
 ---
 
 Pensei nesta página como um portfólio, onde serão apresentadas minhas composições, arranjos, estudos sobre composição assistida por computador e demais assustos relacionados à música.  
