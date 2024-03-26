@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: false
 title:  Apresentação
-date:   2024-03-25                    
+date:   2024-03-25 13:32:20 -0500                   
 description: Apresentação.             
 img: posts/20240325/Boas-vindas.jpg           
 tags: [apresentação]                       
