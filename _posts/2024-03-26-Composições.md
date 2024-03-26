@@ -5,7 +5,7 @@ show_date: false
 title: Composições
 date:   2024-03-26 19:12:00 -0300  
 description: Lista com as principais composições
-img: posts/20240327/music-scores.jpeg 
+img: posts/20240326/music-scores.jpeg 
 tags: [composições]
 author: Paulo Henrique Raposo
 ---
