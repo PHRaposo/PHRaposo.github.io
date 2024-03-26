@@ -107,7 +107,7 @@ Estreada no XXIX Panorama da Música Brasileira Atual (2016), com a interpretaç
  
 **Thermidor para orquestra (2017)**    
  
-Estreada pela Orquestra Nacional do Teatro Claudio Santoro (2017), sob a regência do maestro Jorge Lisbôa Antunes, no evento de premiação e das três obras finalistas do Concurso Nacional de Composição Jorge Antunes.
+Estreada pela Orquestra Nacional do Teatro Claudio Santoro (2017), sob a regência do maestro Jorge Lisbôa Antunes, no evento de premiação das três obras finalistas do Concurso Nacional de Composição Jorge Antunes.
  
 [OUVIR](https://www.youtube.com/watch?v=0Z44P1SyafU)
  
