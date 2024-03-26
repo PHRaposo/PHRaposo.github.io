@@ -1,8 +1,8 @@
 ---
 
 layout: post
-read_time: false
-show_date: false
+read_time: true
+show_date: true
 title: Boas-vindas
 date: 2024-03-25 15:11:20 -0500  
 description: Boas-vindas.  
