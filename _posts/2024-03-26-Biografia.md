@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: false
 title:  Bio
-date:   2024-03-26 13:00:00 -0500
+date:   2024-03-26 13:00:00 -0300
 description: Biografia
 img: posts/20240326/Bio.jpg 
 tags: [bio]
