@@ -111,7 +111,6 @@ data:
       less_than: Menos que
       minute_read: Minutos de leitura
       recent_posts: Postagens recentes
-      news_letter: 
-		  	text: Inscreva-se aqui para receber as últimas atualizações
-			place-holder: E-mail
-			button: Enviar
+      news_text: Inscreva-se aqui para receber as últimas atualizações
+	  news-holder: E-mail
+	  news-button: Enviar
