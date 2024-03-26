@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: false
 title:  Composições
-date:   2024-03-26 16:40:00 -0500
+date:   2024-03-27
 description: Lista com as principais composições
 img: posts/20240326/music-scores.jpeg 
 tags: [composições]
@@ -31,7 +31,7 @@ Estreada pela OSITA, com solos de Cesar Pimenta (trompete) e sob a regência do 
 ## MIXTURE para conjunto de câmara (2009)
 Estreada na XXI Bienal de Música Brasileira Contemporânea (2015), interpretada pelo Grupo CRON (flautas Afonso Oliveira e Felipe Marateo, clarinete Marcos Passos, oboé Thiago Neves, violino Taís Soares, viola Rúbia Siqueira, violoncelo Janaína Salles, contrabaixo Cláudio Alves, piano Tatiana Dumas, regente Marcos Nogueira).
 
-
+[OUVIR](https://www.youtube.com/watch?v=g1VViCEua5A)
 ## Sonatina para sax alto e piano (2010)
 Estreada por Celso mojola e Cesar Albino (2010).
 
@@ -57,7 +57,7 @@ Estreada pelo clarinetista Thiago Tavares, na Sala Villa-Lobos da UNIRIO (2010).
 ## Jeux para quarteto de clarinetas (2010) 
 Estreada no XXV Panorama da Música Brasileira Atual (2010) pelo Quarteto Experimental de Clarinetas (Walter Júnior, Ricardo Ferreira, Marcelo Ferreira e Thiago Tavares).
 
-[OUVIR] (https://www.youtube.com/watch?v=J9EyZusG5IU)
+[OUVIR](https://www.youtube.com/watch?v=J9EyZusG5IU)
 
 
 ## Existência para piano e orquestra de câmara (2010) 
@@ -69,13 +69,13 @@ Estreada na XIX Bienal de Música Brasileira Contemporânea (2011), com solos de
 ## Sucata em Eb (2015)
 Estreada no Projeto Guitarraadoroguitarra no SESC de São José dos Campos (2015). 
 
-[OUVIR] (https://soundcloud.com/guitarraadoroguitarra/sucata-em-eb-paulo-henrique-raposo)
+[OUVIR](https://soundcloud.com/guitarraadoroguitarra/sucata-em-eb-paulo-henrique-raposo)
 
 
 ## Proslambanomenos para violão solo (2016)
 Estreada pelo violonista Luciano Morais no São Paulo Contemporary Composers Festival (2018).
 
-[OUVIR] (https://soundcloud.com/paulo-hg-raposo/paulo-henrique-raposo-proslambanomenos)
+[OUVIR](https://soundcloud.com/paulo-hg-raposo/paulo-henrique-raposo-proslambanomenos)
 
 
 ## Sinfonietta para orquestra de câmara (2016)
@@ -97,7 +97,7 @@ Estreada pela Orquestra Nacional do Teatro Claudio Santoro (2017), sob a regênc
 ## Concertino para sax alto e orquestra (2019)
 Estreada pela Orquestra Sinfônica da UNICAMP no São Paulo Contemporary Composers Festival (2019), com solos de Laurent Estoppey e sob a regência de André Müzel.
 
-[OUVIR] (https://www.youtube.com/watch?v=vNjjnDGgjqg)
+[OUVIR](https://www.youtube.com/watch?v=vNjjnDGgjqg)
  
  
 ## Fuga para cordas (2020)
@@ -111,13 +111,13 @@ Estreada pela Banda Sinfônica de Taubaté na Sala São Paulo (2022).
 ## Sextet (2017/rev. 2023)
 Estreada pelo Ensemble Dal Niente no São Paulo Contemporary Composers Festival (2022).
 
-[OUVIR] (https://www.youtube.com/watch?v=a_sOSjA4Xr8)
+[OUVIR](https://www.youtube.com/watch?v=a_sOSjA4Xr8)
 
 
 ## Abertura Armorial para orquestra
 Estreada pela Orquestra Sinfônica de Taubaté (OSITA) em 2023.
 
-[OUVIR] (https://www.youtube.com/watch?v=AW1GTT9KSYI)
+[OUVIR](https://www.youtube.com/watch?v=AW1GTT9KSYI)
 
 
 ## Noite Feliz para orquestra (arranjo)
