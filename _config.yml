@@ -55,7 +55,7 @@ words_per_minute: 200
 
 extensions:
   mermaid_enable: true
-  image_scaling: true
+  image_scaling: false
 # Comments
 comments: #utteranc  #[disqus, utteranc]
 comments_opts: 
