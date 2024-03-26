@@ -1,8 +1,6 @@
 ---
 
 layout: post
-read_time: true
-show_date: true
 title: Bio
 date: 2024-03-25 01:07:00 -0500
 description: Biografia
