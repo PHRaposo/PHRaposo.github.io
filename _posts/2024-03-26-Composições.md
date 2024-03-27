@@ -24,7 +24,7 @@ Inédita.
  
 Estreada na XVIII Bienal de Música Brasileira Contemporânea (2009), com solos de Ingrid Barancoski (piano) e regência de Roberto Duarte. 
  
-<div align="center"><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272380924&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/paulo-hg-raposo" title="Paulo HG Raposo" target="_blank" style="color: #cccccc; text-decoration: none;">Paulo HG Raposo</a> · <a href="https://soundcloud.com/paulo-hg-raposo/concerto" title="Concerto" target="_blank" style="color: #cccccc; text-decoration: none;">Concerto</a></div> 
+[OUVIR](https://soundcloud.com/paulo-hg-raposo/concerto)
   
  
  
@@ -38,7 +38,7 @@ Estreada pela OSITA, com solos de Cesar Pimenta (trompete) e sob a regência do 
  
 Estreada na XXI Bienal de Música Brasileira Contemporânea (2015), interpretada pelo Grupo CRON (flautas Afonso Oliveira e Felipe Marateo, clarinete Marcos Passos, oboé Thiago Neves, violino Taís Soares, viola Rúbia Siqueira, violoncelo Janaína Salles, contrabaixo Cláudio Alves, piano Tatiana Dumas, regente Marcos Nogueira).
  
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/g1VViCEua5A?si=l2wL-Y3TyOjvcm9L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div> 
+[OUVIR](https://www.youtube.com/watch?v=g1VViCEua5A) 
  
  
  
@@ -71,15 +71,15 @@ Estreada pelo Coletivo Tempo-Câmara de São José dos Campos (2011).
    
 Estreada pelo clarinetista Thiago Tavares, na Sala Villa-Lobos da UNIRIO (2010).
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/TvO5azEPL8c?si=eYgbskWRui7JLDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>  
- 
+[OUVIR](https://www.youtube.com/watch?v=TvO5azEPL8c) 
 
+ 
 
 ### **Jeux para quarteto de clarinetas (2010)** 
    
 Estreada no XXV Panorama da Música Brasileira Atual (2010) pelo Quarteto Experimental de Clarinetas (Walter Júnior, Ricardo Ferreira, Marcelo Ferreira e Thiago Tavares).
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/J9EyZusG5IU?si=1xvZ0JqX-9sG4ZrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>  
+[OUVIR](https://www.youtube.com/watch?v=J9EyZusG5IU) 
  
  
  
@@ -87,7 +87,7 @@ Estreada no XXV Panorama da Música Brasileira Atual (2010) pelo Quarteto Experi
  
 Estreada na XIX Bienal de Música Brasileira Contemporânea (2011), com solos de Ingrid Barancoski (piano) e regência de Lutero Rodrigues. 
  
-<div align="center"><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/134766659&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/paulo-hg-raposo" title="Paulo HG Raposo" target="_blank" style="color: #cccccc; text-decoration: none;">Paulo HG Raposo</a> · <a href="https://soundcloud.com/paulo-hg-raposo/exist-ncia" title="Existência" target="_blank" style="color: #cccccc; text-decoration: none;">Existência</a></div></div> 
+[OUVIR](https://soundcloud.com/paulo-hg-raposo/exist-ncia) 
  
  
  
@@ -95,7 +95,7 @@ Estreada na XIX Bienal de Música Brasileira Contemporânea (2011), com solos de
  
 Estreada no Projeto Guitarraadoroguitarra no SESC de São José dos Campos (2015). 
  
-<div align="center"><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/223080427&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/guitarraadoroguitarra" title="guitarraadoroguitarra" target="_blank" style="color: #cccccc; text-decoration: none;">guitarraadoroguitarra</a> · <a href="https://soundcloud.com/guitarraadoroguitarra/sucata-em-eb-paulo-henrique-raposo" title="Sucata em Eb - Paulo Henrique Raposo" target="_blank" style="color: #cccccc; text-decoration: none;">Sucata em Eb - Paulo Henrique Raposo</a></div></div>  
+[OUVIR](https://soundcloud.com/guitarraadoroguitarra/sucata-em-eb-paulo-henrique-raposo)  
  	
  
  
@@ -103,7 +103,7 @@ Estreada no Projeto Guitarraadoroguitarra no SESC de São José dos Campos (2015
  
 Estreada pelo violonista Luciano Morais no São Paulo Contemporary Composers Festival (2018).
  
-<div align="center"><iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518659491&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe></div>  
+[OUVIR](https://soundcloud.com/paulo-hg-raposo/paulo-henrique-raposo-proslambanomenos) 
 	
  
  
@@ -117,7 +117,7 @@ Inédita.
  
 Estreada no XXIX Panorama da Música Brasileira Atual (2016), com a interpretação da Orquestra de Sopros da UFRJ, sob a regência do maestro Marcelo Jardim.
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4SeiKYftQbM?si=rpsGQ-O4s30dOUBG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>  
+[OUVIR - 1o. MOV.](https://www.youtube.com/watch?v=4SeiKYftQbM&list=PLCfu0tyqPiECDf35ZT4aJj9ERWhnWGQmu&index=25) 
  
  
  
@@ -125,7 +125,7 @@ Estreada no XXIX Panorama da Música Brasileira Atual (2016), com a interpretaç
  
 Estreada pela Orquestra Nacional do Teatro Claudio Santoro (2017), sob a regência do maestro Jorge Lisbôa Antunes, no evento de premiação das três obras finalistas do Concurso Nacional de Composição Jorge Antunes.
  
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0Z44P1SyafU?si=39Tj6RQD0xOMHNue" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>   
+[OUVIR](https://www.youtube.com/watch?v=0Z44P1SyafU) 
  
  
  
@@ -133,7 +133,7 @@ Estreada pela Orquestra Nacional do Teatro Claudio Santoro (2017), sob a regênc
  
 Estreada pela Orquestra Sinfônica da UNICAMP no São Paulo Contemporary Composers Festival (2019), com solos de Laurent Estoppey e sob a regência de André Müzel.
  
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vNjjnDGgjqg?si=a_5TwXV67XosLLKp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>  
+[OUVIR](https://www.youtube.com/watch?v=vNjjnDGgjqg) 
   
   
   
@@ -153,7 +153,7 @@ Estreada pela Banda Sinfônica de Taubaté na Sala São Paulo (2022).
  
 Estreada pelo Ensemble Dal Niente no São Paulo Contemporary Composers Festival (2022).
  
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/a_sOSjA4Xr8?si=dl8saqkfuz10f-Fm&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>  
+[OUVIR](https://www.youtube.com/watch?v=a_sOSjA4Xr8)
  
  
  
@@ -161,7 +161,7 @@ Estreada pelo Ensemble Dal Niente no São Paulo Contemporary Composers Festival 
  
 Estreada pela Orquestra Sinfônica de Taubaté (OSITA) em 2023.
  
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/AW1GTT9KSYI?si=LtIrxgUrAhz7Wik5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>  
+[OUVIR](https://www.youtube.com/watch?v=AW1GTT9KSYI) 
  
  
  
