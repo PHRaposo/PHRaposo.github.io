@@ -10,17 +10,18 @@ tags: [bio]
 author: Paulo Henrique Raposo
 ---
   
-Mestre em composição musical pelo Programa de Pós-Graduação em Música da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), cursou Bacharelado em Música  Habilitação em guitarra  na Faculdade Santa Cecília (FASC  Pindamonhangaba-SP) e Especialização em Composição Musical na Faculdade de Música Carlos Gomes (FMCG  São Paulo). Teve aulas de composição com Celso Mojola (São Paulo) entre 2005 e 2009. Atuou como docente na Faculdade de Música Carlos Gomes entre 2011 e 2019. Entre 2016 e 2022 atuou como docente na do curso de Licenciatura em Música da UNIFACCAMP (Centro Universitário Campo Limpo Paulista-SP), tendo assumido a coordenação do curso nos três últimos anos (2019-2022). 
+Mestre em composição musical pelo Programa de Pós-Graduação em Música da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), cursou Bacharelado em Música  Habilitação em guitarra  na Faculdade Santa Cecília (FASC  Pindamonhangaba-SP) e Especialização em Composição Musical na Faculdade de Música Carlos Gomes (FMCG  São Paulo). Teve aulas de composição com Celso Mojola (São Paulo) entre 2005 e 2009. Atuou como docente na Faculdade de Música Carlos Gomes entre 2011 e 2019, no curso de Licenciatura em Música da UNIFACCAMP (Centro Universitário Campo Limpo Paulista-SP) entre 2016 e 2022, tendo assumido a coordenação do curso nos três últimos anos.
 
-Atuou como guitarrista profissional em diversos grupos de gêneros distintos o choro, bossa-nova, jazz, rock, heavy metal, forró, reggae, MPB, entre outros. Estreou as obras "Capricho" (guitarra solo) e 210 mentiras por dia (guitarra e piano) de Celso Mojola, no Teatro Municipal de Barueri, em 2016. Desde 2017 atua como violonista no Duo RaZim (flauta e guitarra/violão), juntamente com a flautista Monique Traverzim.  
+Como guitarrista profissional, atuou em diversos grupos de gêneros distintos como o choro, bossa-nova, jazz, rock, heavy metal, forró, reggae, MPB, entre outros. Estreou as obras "Capricho" (guitarra solo) e 210 mentiras por dia (guitarra e piano) de Celso Mojola, no Teatro Municipal de Barueri, em 2016. Desde 2017 atua como guitarrista e violonista no Duo RaZim (flauta e guitarra/violão), juntamente com a flautista Monique Traverzim.  
 
 Como compositor, participou de três edições da Bienal da Música Brasileira Contemporânea (2009, 2011 e 2015), com as peças Concerto, Existência (ambas para piano e orquestra de câmara) e Mixture (para grupo de nove instrumentistas), sendo nas duas últimas edições contemplado pelo Prêmio Funarte de Composição Clássica. 
 Em 2010 e 2016 participou do Panorama da Música Brasileira Atual com as peças Jeux (para quarteto de clarinetas) e Sinfonias (Orquestra de Sopros), respectivamente. Em 2015 foi um dos compositores que integrou o projeto GuitarraAdoroGuitarra, promovido pelo Coletivo Tempo-Câmara, de São José dos Campos, onde foi estreada a peça Sucata em Eb (para flauta, 5 guitarras, violão, contrabaixo elétrico, piano e bateria), no auditório do SESC. 
-Em 2017 recebeu o prêmio de 2o. lugar no 1o. Concurso Nacional de Composição Jorge Antunes, com a obra Thermidor para orquestra. 
-Participou de três edições do SPCCF (São Paulo Contemporary Composers Festival), em 2018, 2019 e 2022, como compositor e embaixador local, onde teve aulas de composição com Justin Dello Joio (EUA) e Reinhard Fuchs (Áustria) e atendeu às palestras dos compositores brasileiros Flo Menezes e Silvio Ferraz. 
-Ainda no SPCCF foram estreadas as composições Proslambanomenos (violão solo), Concertino (sax alto e orquestra) e Sextet (Pierrot ensemble com percussão).  
+Em 2017 recebeu o prêmio de 2o. lugar no 1o. Concurso Nacional de Composição Jorge Antunes, com a obra Thermidor para orquestra.   
 
-Em 2022 foi estreada, na Sala São Paulo, a composição Ponteio para banda sinfônica, executada pela Banda Sinfônica de Taubaté.  
+Participou de três edições do SPCCF (São Paulo Contemporary Composers Festival), em 2018, 2019 e 2022, como compositor e embaixador local, onde teve aulas de composição com Justin Dello Joio (EUA), Reinhard Fuchs (Áustria) e atendeu às palestras dos compositores brasileiros Flo Menezes e Silvio Ferraz. 
+Ainda no SPCCF foram estreadas as composições Proslambanomenos (violão solo - 2018), Concertino (sax alto e orquestra - 2019) e Sextet (Pierrot ensemble com percussão - 2022).  
+
+Em 2022 sua composição Ponteio, para banda sinfônica, foi estreada na Sala São Paulo, executada pela Banda Sinfônica de Taubaté, sob a regência de Cesar Pimenta.  
 
 Desde o início de 2023 é bolsista da Banda Sinfônica de Taubaté e da Orquestra Sinfônica Jovem de Taubaté (OSITA), atuando como arranjador e compositor residente.
 
