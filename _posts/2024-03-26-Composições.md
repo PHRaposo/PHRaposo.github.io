@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: false
 title: Composições
-date:   2024-03-26 19:12:00 -0300  
+date:   2024-03-26 23:58:00 -0300  
 description: Lista com as principais composições
 img: posts/20240326/music-scores.jpeg 
 tags: [composições]
