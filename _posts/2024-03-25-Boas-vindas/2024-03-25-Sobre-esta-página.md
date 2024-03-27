@@ -18,7 +18,10 @@ Se tiver o interesse em ser um assinante, preencha a "Newsletter" abaixo. Assim 
 
 No futuro pretendo adicionar os *links* para a visualização de partituras.               
 
-Para acessar a aba "Feed", na barra lateral, é necessário ter instalada uma extensão no navegador, como, por exemplo, o "RSS Feed Reader 7.9.0" para o Google Chrome.                                                   
+Para acessar a aba "Feed", na barra lateral, é necessário ter instalada uma extensão no navegador, como, por exemplo, o "RSS Feed Reader 7.9.0" para o Google Chrome.      
+
+A página foi criada a partir do modelo *Jekyll theme:Adam Blog 2.0*, desenvolvido por [Armando Maynez](https://github.com/amaynez). A versão anterior, [V1.0](https://github.com/artemsheludko/adam-blog), foi desenvolvida por [Artem Sheludko](https://github.com/artemsheludko).                                     
+Como esta foi minha experiência com o GitHub Pages, alguns conteúdos da página serão corrigidos assim que possível. 
 
 OBS.: O ícone da página, que também serve de imagem para esta mensagem, é um desenho que foi feito à mão por mim mesmo, com tinta Nankin, a alguns anos atrás.                           
  
