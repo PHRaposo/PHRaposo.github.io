@@ -48,24 +48,11 @@ Estreada por Celso Mojola e Cesar Albino (2010).
  
  
  
- 
 ### **Infância para piano solo (2010)** 
  
 Estreada pela pianista Ingrid Barancoski na Sala Villa-Lobos da UNIRIO (2012).
- 
- 
- 
-### **"Zangou-se o Cravo com a Rosa" para quarteto de cordas (2011)**
- 
-Inédita. 
- 
- 
- 
-### **Invenção de Bach para conjunto de câmara (2011)**  
- 
-Estreada pelo Coletivo Tempo-Câmara de São José dos Campos (2011).
- 
- 
+
+
  
 ### **O Rio de Ariadne para clarineta solo (2010)** 
    
@@ -73,7 +60,7 @@ Estreada pelo clarinetista Thiago Tavares, na Sala Villa-Lobos da UNIRIO (2010).
 
 [OUVIR](https://www.youtube.com/watch?v=TvO5azEPL8c) 
 
- 
+
 
 ### **Jeux para quarteto de clarinetas (2010)** 
    
@@ -88,12 +75,24 @@ Estreada no XXV Panorama da Música Brasileira Atual (2010) pelo Quarteto Experi
 Estreada na XIX Bienal de Música Brasileira Contemporânea (2011), com solos de Ingrid Barancoski (piano) e regência de Lutero Rodrigues. 
  
 [OUVIR](https://soundcloud.com/paulo-hg-raposo/exist-ncia) 
+
  
  
+### **"Zangou-se o Cravo com a Rosa" para quarteto de cordas (2011)**
+
+Inédita.  
+
+
+  
+### **Invenção de Bach para conjunto de câmara (2011)**  
  
+Estreada pelo Coletivo Tempo-Câmara de São José dos Campos (2011).
+
+
+
 ### **Sucata em Eb para conjunto de câmara (2015)** 
  
-Estreada no Projeto Guitarraadoroguitarra no SESC de São José dos Campos (2015). 
+Estreada no Projeto Guitarra Adoro Guitarra! pelo Coletivo Tempo-Câmara (2015). 
  
 [OUVIR](https://soundcloud.com/guitarraadoroguitarra/sucata-em-eb-paulo-henrique-raposo)  
  	
