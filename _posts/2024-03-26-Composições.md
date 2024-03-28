@@ -9,7 +9,7 @@ img: posts/20240326/music-scores.jpeg
 tags: [composições]
 author: Paulo Henrique Raposo
 ---
-<center><img src="./assets/img/posts/20240326/music-scores.png" alt="image" hidden/></center>
+<center><img src="./assets/img/posts/20240326/music-scores.png" alt="image" style="display:none;"></center>
 
 Em breve serão postados aqui os links para acessar algumas partituras. Por enquanto, caso haja o interesse em adquirir alguma das partituras aqui mencionadas, é só entrar em contato que poderei providenciar os arquivos (partitura e/ou partes cavadas). 
 

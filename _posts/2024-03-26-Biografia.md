@@ -9,7 +9,7 @@ img: posts/20240326/Bio.jpg
 tags: [bio]
 author: Paulo Henrique Raposo
 ---
-<center><img src="./assets/img/posts/20240326/Bio.png" alt="image" hidden/></center>
+<center><img src="./assets/img/posts/20240326/Bio.png" alt="image" style="display:none;"></center>
 
 Mestre em composição musical pelo Programa de Pós-Graduação em Música da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), cursou Bacharelado em Música  Habilitação em guitarra  na Faculdade Santa Cecília (FASC  Pindamonhangaba-SP) e Especialização em Composição Musical na Faculdade de Música Carlos Gomes (FMCG  São Paulo). Teve aulas de composição com Celso Mojola (São Paulo) entre 2005 e 2009. Atuou como docente na Faculdade de Música Carlos Gomes entre 2011 e 2019, no curso de Licenciatura em Música da UNIFACCAMP (Centro Universitário Campo Limpo Paulista-SP) entre 2016 e 2022, tendo assumido a coordenação do curso nos três últimos anos. Atualmente é professor colaborador na Faculdade de Música do Espírito Santo (FAMES).
 
