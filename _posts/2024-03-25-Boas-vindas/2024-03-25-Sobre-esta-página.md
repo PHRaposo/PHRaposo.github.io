@@ -9,6 +9,7 @@ img: posts/20240325/Boas-vindas.jpg
 tags: [github pages]                       
 author: Paulo Henrique Raposo             
 ---
+<center><img src="./assets/img/posts/20240326/Boas-vindas.png" alt="image" hidden/></center>
 
 Esta página foi organizada como um portfólio, onde serão apresentadas minhas composições, arranjos, estudos sobre composição assistida por computador e demais assustos relacionados à música.                
 
