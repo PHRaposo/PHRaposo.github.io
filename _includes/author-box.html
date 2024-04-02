@@ -16,14 +16,14 @@
       {% if site.github %}
       <li class="github"><a class="github" href="http://github.com/{{site.github}}" target="_blank"><i class="fa fa-github"></i></a></li>
       {% endif %}
+     {% if site.email %}
+      <li class="email"><a class="email" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
+      {% endif %}
       {% if site.bandcamp %}
       <li class="bandcamp"><a class="bandcamp" href="https://{{site.bandcamp}}.bandcamp.com" target="_blank"><i class="fa fa-bandcamp"></i></a></li>
       {% endif %}
       {% if site.soundcloud %}
       <li class="soundcloud"><a class="soundcloud" href="http://soundcloud.com/{{site.soundcloud}}" target="_blank"><i class="fa fa-soundcloud"></i></a></li>
-      {% endif %}
-     {% if site.email %}
-      <li class="email"><a class="email" href="mailto:{{site.email}}"><i class="fa fa-envelope-o"></i></a></li>
       {% endif %}
      <!-- {% if site.stackoverflow %}
       <li class="stackoverflow"><a class="stackoverflow" href="https://stackoverflow.com/users/{{site.stackoverflow}}"><i class="fa fa-stack-overflow"></i></a></li>
