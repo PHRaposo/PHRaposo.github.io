@@ -147,7 +147,7 @@ Inédita.
  
 Estreada pela Banda Sinfônica de Taubaté na Sala São Paulo (2022).
  
- 
+[OUVIR](https://soundcloud.com/paulo-hg-raposo/ponteio?si=0e06f444c5844217b3956fd4d4bf4c03&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
  
 ### **Sextet (2017/rev. 2023)** 
  
