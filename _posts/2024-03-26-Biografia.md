@@ -26,7 +26,7 @@ Em 2022 sua composição Ponteio, para banda sinfônica, foi estreada na Sala S�
 
 Desde o início de 2023 é bolsista da Banda Sinfônica de Taubaté e da Orquestra Sinfônica Jovem de Taubaté (OSITA), atuando como arranjador e compositor residente.
 
-Em 2023 foras apresentadas as composições: (1) Sextet, em Chicago e Nova Yorque (Ensemble Dal Niente), (2) Ponteio (Banda Sinfônica de Taubaté) e (3), a estreia de Abertura Armorial (OSITA), para orquestra. No final do ano foi apresentado o arranjo de Noite Feliz, elaborado especialmente para a OSITA.
+Em 2023 foras apresentadas as composições: (1) Sextet, em Chicago e Nova Iorque (Ensemble Dal Niente), (2) Ponteio (Banda Sinfônica de Taubaté) e (3), a estreia de Abertura Armorial (OSITA), para orquestra. No final do ano foi apresentado o arranjo de Noite Feliz, elaborado especialmente para a OSITA.
 
 Nos últimos anos vem se dedicando à estudos na área da composição assistida por computador (CAC), principalmente no ambiente Openmusic (OM). Neste período foram desenvolvidos algumas bibliotecas externas para este ambiente, como "OM-AIS" (cálculos de séries dodecafônicas que possuem todos os intervalos), a versão para o OM de Cluster-Engine, de Orjan Sandred, "OMLindberg" (estudos sobre a organização harmônica na música do compositor finlandês Magnus Lindberg) e "omsib" (ferramenta para exportar partituras do OM para Sibelius). Por causa desta atividade, vem realizando estudos sobre a linguagem de programação Common LISP e sobre suas aplicações na área da música. 
 
