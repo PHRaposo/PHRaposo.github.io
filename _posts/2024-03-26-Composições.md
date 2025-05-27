@@ -172,3 +172,8 @@ Arranjo baseado na versão original de Franz Xaver Gruber, de 1818.
 Estreado pela OSITA (2023).
 
 
+### **Ponteio (2025 - versão orquestral)**
+
+Estreado pela Orquestra Sinfônica do Estado do Espírito Santo, sob a regência de Modesto Flávio.
+
+[OUVIR](https://www.youtube.com/watch?v=De3KH8SY90c)
