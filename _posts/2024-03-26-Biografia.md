@@ -11,7 +11,7 @@ author: Paulo Henrique Raposo
 ---
 <center><img src="./assets/img/posts/20240326/Bio.png" alt="image" style="display:none;"></center>
 
-Mestre em composição musical pelo Programa de Pós-Graduação em Música da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), cursou Bacharelado em Música  Habilitação em guitarra  na Faculdade Santa Cecília (FASC  Pindamonhangaba-SP) e Especialização em Composição Musical na Faculdade de Música Carlos Gomes (FMCG  São Paulo). Teve aulas de composição com Celso Mojola (São Paulo) entre 2005 e 2009. Atuou como docente na Faculdade de Música Carlos Gomes entre 2011 e 2019, no curso de Licenciatura em Música da UNIFACCAMP (Centro Universitário Campo Limpo Paulista-SP) entre 2016 e 2022, tendo assumido a coordenação do curso nos três últimos anos. No primeiro semestre de 2024, atuou como professor colaborador na Faculdade de Música do Espírito Santo (FAMES).
+Mestre em composição musical pelo Programa de Pós-Graduação em Música da Universidade Federal do Estado do Rio de Janeiro (UNIRIO), cursou Bacharelado em Música  Habilitação em guitarra  na Faculdade Santa Cecília (FASC  Pindamonhangaba-SP) e Especialização em Composição Musical na Faculdade de Música Carlos Gomes (FMCG  São Paulo). Teve aulas de composição com Celso Mojola (São Paulo) entre 2005 e 2009. Atuou como docente na Faculdade de Música Carlos Gomes entre 2011 e 2019, no curso de Licenciatura em Música da UNIFACCAMP (Centro Universitário Campo Limpo Paulista-SP) entre 2016 e 2022, tendo assumido a coordenação do curso nos três últimos anos. No primeiro semestre de 2024, atuou como professor colaborador na Faculdade de Música do Espírito Santo (FAMES). Atualmente é doutorando em Processos Criativos na UNIRIO e assessor na SECULT (Secretaria de Estado da Cultura do Espírito Santo).
 
 Como guitarrista profissional, atuou em diversos grupos de gêneros distintos como o choro, bossa-nova, jazz, rock, heavy metal, forró, reggae, MPB, entre outros. Estreou as obras [Capricho](https://youtu.be/NaU2WgumBKc?si=ftNnB2bVodx8m1pC&t=21) (guitarra solo) e [210 mentiras por dia](https://youtu.be/8WcUIptcN-8?si=EsUGXUCYA3_nedRQ&t=135) (guitarra e piano) de Celso Mojola, no Teatro Municipal de Barueri, em 2016. Desde 2017 atua como guitarrista e violonista no [Duo RaZim](https://www.youtube.com/watch?v=jHrFbqai-rM&list=PLzHvoXehK07jEhsDa_xSlWBipyYEe7fb4) (flauta e guitarra/violão), juntamente com a flautista Monique Traverzim.
 
@@ -24,9 +24,13 @@ Ainda no SPCCF foram estreadas as composições Proslambanomenos (violão solo -
 
 Em 2022 sua composição Ponteio, para banda sinfônica, foi estreada na Sala São Paulo, executada pela Banda Sinfônica de Taubaté, sob a regência de Cesar Pimenta.  
 
-Desde o início de 2023 é bolsista da Banda Sinfônica de Taubaté e da Orquestra Sinfônica Jovem de Taubaté (OSITA), atuando como arranjador e compositor residente.
+Entre o início de 2023 e dezembro de 2024 foi bolsista da Banda Sinfônica de Taubaté e da Orquestra Sinfônica Jovem de Taubaté (OSITA), atuando como arranjador e compositor residente.
 
 Em 2023 foras apresentadas as composições: (1) Sextet, em Chicago e Nova Iorque (Ensemble Dal Niente), (2) Ponteio (Banda Sinfônica de Taubaté) e (3), a estreia de Abertura Armorial (OSITA), para orquestra. No final do ano foi apresentado o arranjo de Noite Feliz, elaborado especialmente para a OSITA.
+
+Em 2024 o arranjo de Os Saltimbancos foi apresentado pela Banda Sinfônica de Taubaté, além de outros arranjos para orquestra. 
+
+Em 2025 a versão orquestral do Ponteio foi estreada pela Orquestra Sinfônica do Estado do Espírito Santo.
 
 Nos últimos anos vem se dedicando à estudos na área da composição assistida por computador (CAC), principalmente no ambiente Openmusic (OM). Neste período foram desenvolvidos algumas bibliotecas externas para este ambiente, como "OM-AIS" (cálculos de séries dodecafônicas que possuem todos os intervalos), a versão para o OM de Cluster-Engine, de Orjan Sandred, "OMLindberg" (estudos sobre a organização harmônica na música do compositor finlandês Magnus Lindberg) e "omsib" (ferramenta para exportar partituras do OM para Sibelius). Por causa desta atividade, vem realizando estudos sobre a linguagem de programação Common LISP e sobre suas aplicações na área da música. 
 
